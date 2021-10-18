@@ -17,7 +17,7 @@ No entraria porque esta en medio de la nada.
 
 * EURGBP
 No hay mucho que analizar ya que vino del dia anterior callendo a lo bestia y hoy a subido a lo bestia, paso hasta que se relaje
-![[Pasted image 20211018220007.png]]
+![[tradding/Pasted image 20211018220007.png]]
 
 
 * EURAUD
@@ -26,7 +26,7 @@ EL OBV manda divergencia.
 RSI en el suelo y subiendo.
 MACD estabilizandose
 El vumanchu ya marco punto verde, pero el volumen no parece que este entrando.
-![[./tradding/Pasted image 20211018220443.png]]
+![[tradding/Pasted image 20211018220443.png]]
 * 
 EURCHF,
 EURCAD,

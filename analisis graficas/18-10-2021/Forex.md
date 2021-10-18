@@ -29,6 +29,10 @@ El vumanchu ya marco punto verde, pero el volumen no parece que este entrando.
 ![[Pasted image 20211018220752.png]]
 
 * EURCHF
+RSI con divergencia
+OBV rompiendo directriz bajista despues de una divergencia.
+MACD subiendo.
+
 
 EURCAD,
 GBPCHF,

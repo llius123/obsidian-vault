@@ -16,8 +16,12 @@ No entraria porque esta en medio de la nada.
 ![[Pasted image 20211018214931.png]]
 
 * EURGBP
+No hay mucho que analizar ya que vino del dia anterior callendo a lo bestia y hoy a subido a lo bestia, paso hasta que se relaje
+![[Pasted image 20211018220007.png]]
 
-EURAUD,
+
+* EURAUD
+* 
 EURCHF,
 EURCAD,
 GBPCHF,

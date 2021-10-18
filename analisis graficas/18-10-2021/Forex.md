@@ -25,7 +25,8 @@ Viene de una caida guapa y el fibo marca 2 posibles zonas de retroceso en su baj
 EL OBV manda divergencia.
 RSI en el suelo y subiendo.
 MACD estabilizandose
-El vumanchu ya marco punto verde, pero el volumen no parece que 
+El vumanchu ya marco punto verde, pero el volumen no parece que este entrando.
+![[./tradding/Pasted image 20211018220443.png]]
 * 
 EURCHF,
 EURCAD,

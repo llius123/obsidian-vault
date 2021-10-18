@@ -12,8 +12,7 @@
             "file": "analisis graficas/18-10-2021/Forex.md",
             "mode": "source"
           }
-        },
-        "group": "ad9036f89fa862f2"
+        }
       },
       {
         "id": "bfbf903f5bfb544f",
@@ -24,8 +23,7 @@
             "file": "analisis graficas/18-10-2021/Forex.md",
             "mode": "preview"
           }
-        },
-        "group": "ad9036f89fa862f2"
+        }
       }
     ],
     "direction": "vertical"
@@ -99,7 +97,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa4adec86d41b1df",
+  "active": "bfbf903f5bfb544f",
   "lastOpenFiles": [
     "analisis graficas/18-10-2021/Forex.md",
     "tradding/Pasted image 20211018214247.png",

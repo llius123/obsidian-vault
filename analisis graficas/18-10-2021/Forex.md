@@ -28,10 +28,12 @@ MACD estabilizandose
 El vumanchu ya marco punto verde, pero el volumen no parece que este entrando.
 ![[Pasted image 20211018220752.png]]
 
-* EURCHF
+* EURCHF (DENTRO)
 RSI con divergencia
 OBV rompiendo directriz bajista despues de una divergencia.
 MACD subiendo.
+Vumanchu entrando volumen y stoch subiendo.
+![[Pasted image 20211018221102.png]]
 
 
 EURCAD,

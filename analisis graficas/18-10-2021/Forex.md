@@ -21,6 +21,8 @@ No hay mucho que analizar ya que vino del dia anterior callendo a lo bestia y ho
 
 
 * EURAUD
+Viene de una caida guapa y el fibo marca 2 posibles retrocesos
+
 * 
 EURCHF,
 EURCAD,

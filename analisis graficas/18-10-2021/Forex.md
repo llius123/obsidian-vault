@@ -37,6 +37,8 @@ Vumanchu entrando volumen y stoch subiendo.
 
 
 * EURCAD
+Bajada muy bestia, rebotando en un soporte.
+Ha dejado un 
 GBPCHF,
 GBPAUD,
 GBPCAD,

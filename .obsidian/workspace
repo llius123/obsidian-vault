@@ -7,9 +7,10 @@
         "id": "fa4adec86d41b1df",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "tradding/Pasted image 20211018221102.png"
+            "file": "analisis graficas/18-10-2021/Forex.md",
+            "mode": "source"
           }
         }
       },
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tradding/Pasted image 20211018221102.png",
+                "file": "analisis graficas/18-10-2021/Forex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,8 +99,8 @@
   },
   "active": "fa4adec86d41b1df",
   "lastOpenFiles": [
-    "tradding/Pasted image 20211018221102.png",
     "analisis graficas/18-10-2021/Forex.md",
+    "tradding/Pasted image 20211018221102.png",
     "tradding/Pasted image 20211018214247.png",
     "analisis graficas/Untitled.md",
     "analisis graficas/18-10-2021/Untitled.md",

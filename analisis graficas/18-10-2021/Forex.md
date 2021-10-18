@@ -46,7 +46,8 @@ Lo dejo en la lista de revisar a ver si en los siguientes dias rebota hasta los 
 ![[Pasted image 20211018221621.png]]
 
 * GBPCHF
-Esta siguiendo la directriz alcista, si vuelve a tocar la directriz coincidira con las medias, sera un buen punto para entrar
+Esta siguiendo la directriz alcista, si vuelve a tocar la directriz coincidira con las medias, sera un buen punto para entrar.
+![[Pasted image 20211018221849.png]]
 GBPAUD,
 GBPCAD,
 CHFJPY,

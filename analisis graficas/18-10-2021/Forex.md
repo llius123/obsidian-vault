@@ -52,7 +52,9 @@ Esta siguiendo la directriz alcista, si vuelve a tocar la directriz coincidira c
 * GBPAUD
 Ha tocado las medias moviles.
 El RSI esta a punto de tocar la directriz bajista.
-Vumanchu ha puesto un suelo pequeño
+Vumanchu ha puesto un suelo pequeño.
+Esperaria a que explotara y que esta al final del triangulo.
+![[Pasted image 20211018222144.png]]
 GBPCAD,
 CHFJPY,
 AUDUSD,

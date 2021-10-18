@@ -1,3 +1,5 @@
 * EURUSD
 
-Chocando con la resistencia 
+Chocando con la resistencia.
+RSI subiendo.
+Vumanchu con moneyflow

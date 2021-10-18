@@ -7,11 +7,8 @@
         "id": "a9c158b1e8303007",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "test.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +84,7 @@
   },
   "active": "a9c158b1e8303007",
   "lastOpenFiles": [
+    "analisis graficas/Untitled.md",
     "test.md"
   ]
 }

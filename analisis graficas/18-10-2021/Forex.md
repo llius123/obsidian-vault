@@ -17,3 +17,21 @@ No entraria porque esta en medio de la nada.
 
 * EURGBP
 
+EURAUD,
+EURCHF,
+EURCAD,
+GBPCHF,
+GBPAUD,
+GBPCAD,
+CHFJPY,
+AUDUSD,
+AUDCAD,
+AUDCHF,
+AUDJPY,
+CADJPY,
+CADCHF,
+NZDJPY,
+NZDUSD,
+NZDCHF,
+NZDCAD,
+

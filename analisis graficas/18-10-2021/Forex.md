@@ -11,5 +11,5 @@ El MACD esta para long.
 En medio de la nada.
 RSI por el suelo.
 Vumanchu entrando money y punto verde.
-Podria ser una buena entrada pero no tengo pasta dentro de xtb.
-El MACD no da entrada asi que es
+El MACD no da entrada.
+No entraria porque esta en medio de la nada.

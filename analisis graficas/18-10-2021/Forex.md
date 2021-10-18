@@ -64,7 +64,10 @@ OBV saliendo de una divergencia.
 *Entraria si el stop loss no fuera tan alto*
 ![[Pasted image 20211018222913.png]]
 
-CHFJPY,
+* CHFJPY
+Volando, paso de analizar.
+![[Pasted image 20211018222959.png]]
+
 AUDUSD,
 AUDCAD,
 AUDCHF,

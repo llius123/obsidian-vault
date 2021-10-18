@@ -61,6 +61,8 @@ Apoyandose en el soporte.
 RSI subiendo.
 MACD subiendo.
 OBV saliendo de una divergencia.
+*Entraria si el stop loss no fuera tan alto*
+![[Pasted image 20211018222913.png]]
 
 CHFJPY,
 AUDUSD,

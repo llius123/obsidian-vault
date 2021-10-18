@@ -42,8 +42,8 @@ Ha dejado un fibo bastante interesante.
 RSI saliendo de zona de sobre venta.
 OBV empezando a despegar.
 MACD empezando a despegar.
-
-
+Lo dejo en la lista de revisar a ver si en los siguientes dias rebota hasta los fibbo
+![[Pasted image 20211018221621.png]]
 GBPCHF,
 GBPAUD,
 GBPCAD,

@@ -22,8 +22,10 @@ No hay mucho que analizar ya que vino del dia anterior callendo a lo bestia y ho
 
 * EURAUD
 Viene de una caida guapa y el fibo marca 2 posibles zonas de retroceso en su bajada.
-EL OBV manda divergencia 
-
+EL OBV manda divergencia.
+RSI en el suelo y subiendo.
+MACD estabilizandose
+El vumanchu ya marco punto verde, pero el volumen no parece que 
 * 
 EURCHF,
 EURCAD,

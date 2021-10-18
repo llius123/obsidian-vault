@@ -77,7 +77,7 @@ Esta soportando la zona de soporte.
 MACD long.
 OBV a punto de romper directriz bajista.
 RSI pos ok.
-
+![[Pasted image 20211018223935.png]]
 AUDCHF,
 AUDJPY,
 CADJPY,

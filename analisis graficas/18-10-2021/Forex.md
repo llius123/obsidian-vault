@@ -36,7 +36,7 @@ Vumanchu entrando volumen y stoch subiendo.
 ![[Pasted image 20211018221102.png]]
 
 
-EURCAD,
+* EURCAD
 GBPCHF,
 GBPAUD,
 GBPCAD,

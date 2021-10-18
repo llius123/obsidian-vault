@@ -6,9 +6,10 @@ Vumanchu con moneyflow entrando.
 El MACD esta para long.
 ![[Pasted image 20211018214247.png]]
 
-* USDCAD (Habria entrado)
+* USDCAD
 
 En medio de la nada.
 RSI por el suelo.
 Vumanchu entrando money y punto verde.
 Podria ser una buena entrada pero no tengo pasta dentro de xtb.
+El MACD no da entrada asi que es

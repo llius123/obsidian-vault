@@ -73,6 +73,10 @@ Subiendo, cuando toque resistencia revisar de nuevo.
 ![[Pasted image 20211018223058.png]]
 
 * AUDCAD
+Esta soportando la zona de soporte.
+MACD long.
+OBV a punto de romper directriz bajista.
+RSI pos ok.
 
 AUDCHF,
 AUDJPY,

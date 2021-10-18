@@ -55,7 +55,10 @@ El RSI esta a punto de tocar la directriz bajista.
 Vumanchu ha puesto un suelo pequeño.
 Esperaria a que explotara y que esta al final del triangulo.
 ![[Pasted image 20211018222144.png]]
-GBPCAD,
+
+* GBPCAD
+Apoyandose en el soporte.
+
 CHFJPY,
 AUDUSD,
 AUDCAD,

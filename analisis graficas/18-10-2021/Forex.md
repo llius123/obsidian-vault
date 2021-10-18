@@ -6,3 +6,8 @@ Vumanchu con moneyflow entrando.
 El MACD esta para long.
 ![[Pasted image 20211018214247.png]]
 
+* USDCAD
+
+En medio de la nada.
+RSI por el suelo.
+Vumanchu entrando money y punto verde.

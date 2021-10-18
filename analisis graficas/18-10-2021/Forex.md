@@ -13,3 +13,5 @@ RSI por el suelo.
 Vumanchu entrando money y punto verde.
 El MACD no da entrada.
 No entraria porque esta en medio de la nada.
+![[Pasted image 20211018214931.png]]
+

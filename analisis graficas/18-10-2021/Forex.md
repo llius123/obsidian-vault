@@ -58,6 +58,9 @@ Esperaria a que explotara y que esta al final del triangulo.
 
 * GBPCAD
 Apoyandose en el soporte.
+RSI subiendo.
+MACD subiendo.
+OBV saliendo de una divergencia.
 
 CHFJPY,
 AUDUSD,

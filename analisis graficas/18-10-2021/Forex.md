@@ -2,4 +2,5 @@
 
 Chocando con la resistencia.
 RSI subiendo.
-Vumanchu con moneyflow
+Vumanchu con moneyflow entrando.
+El MACD esta para long.

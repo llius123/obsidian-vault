@@ -27,8 +27,9 @@ RSI en el suelo y subiendo.
 MACD estabilizandose
 El vumanchu ya marco punto verde, pero el volumen no parece que este entrando.
 ![[Pasted image 20211018220752.png]]
-* 
-EURCHF,
+
+* EURCHF
+
 EURCAD,
 GBPCHF,
 GBPAUD,

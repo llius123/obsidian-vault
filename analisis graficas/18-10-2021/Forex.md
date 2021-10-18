@@ -50,6 +50,9 @@ Esta siguiendo la directriz alcista, si vuelve a tocar la directriz coincidira c
 ![[Pasted image 20211018221849.png]]
 
 * GBPAUD
+Ha tocado las medias moviles.
+El RSI esta a punto de tocar la directriz bajista.
+Vumanchu ha puesto un suelo pequeño
 GBPCAD,
 CHFJPY,
 AUDUSD,

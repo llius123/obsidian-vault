@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "analisis graficas/18-10-2021/Forex.md",
+            "file": "analisis graficas/Lista a revisar.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "analisis graficas/18-10-2021/Forex.md",
+            "file": "analisis graficas/Lista a revisar.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "analisis graficas/18-10-2021/Forex.md",
+                "file": "analisis graficas/Lista a revisar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +101,9 @@
   },
   "active": "a9c158b1e8303007",
   "lastOpenFiles": [
+    "analisis graficas/Untitled.md",
     "analisis graficas/18-10-2021/Forex.md",
     "analisis graficas/18-10-2021/Untitled.md",
-    "analisis graficas/Untitled.md",
     "test.md"
   ]
 }

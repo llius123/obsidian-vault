@@ -38,7 +38,12 @@ Vumanchu entrando volumen y stoch subiendo.
 
 * EURCAD
 Bajada muy bestia, rebotando en un soporte.
-Ha dejado un 
+Ha dejado un fibo bastante interesante.
+RSI saliendo de zona de sobre venta.
+OBV empezando a despegar.
+MACD empezando a despegar.
+
+
 GBPCHF,
 GBPAUD,
 GBPCAD,

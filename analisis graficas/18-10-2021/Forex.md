@@ -68,8 +68,12 @@ OBV saliendo de una divergencia.
 Volando, paso de analizar.
 ![[Pasted image 20211018222959.png]]
 
-AUDUSD,
-AUDCAD,
+* AUDUSD
+Subiendo, cuando toque resistencia revisar de nuevo.
+![[Pasted image 20211018223058.png]]
+
+* AUDCAD
+
 AUDCHF,
 AUDJPY,
 CADJPY,

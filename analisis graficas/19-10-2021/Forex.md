@@ -30,7 +30,11 @@ Si vuelve a apoyarse en el RSI podria ser buena entrada
 ![[Pasted image 20211019214547.png]]
 
 * EURAUD
-
+Trade perdido por una velaca de locos
+RSI
+MACD
+OBV
+Vumanchu
 EURCHF,
 EURCAD,
 GBPCHF,

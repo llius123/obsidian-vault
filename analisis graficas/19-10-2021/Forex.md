@@ -1,5 +1,6 @@
-###FOREX
-EURUSD,
+* EURUSD
+No se lo que esta haciendo, esperar a que 
+
 USDCAD,
 EURGBP,
 EURAUD,

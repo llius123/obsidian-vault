@@ -17,11 +17,11 @@ RSI apoyando en directriz alcista
 MACD bajando
 OBV rompiedo/apoyando directriz alcista
 Vumanchu saliendo cashflow, pero con anclaje creado
+![[Pasted image 20211019214344.png]]
 
 
 
-
-EURGBP,
+* EURGBP
 EURAUD,
 EURCHF,
 EURCAD,

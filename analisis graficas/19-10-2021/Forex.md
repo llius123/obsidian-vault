@@ -50,6 +50,8 @@ RSI alcista
 MACD alcista
 OBV alcista
 Vumanchu anclaje hecho, pero el cashflow no sube, pero el stoch si
+![[Pasted image 20211019215336.png]]
+
 GBPCHF,
 GBPAUD,
 GBPCAD,

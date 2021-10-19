@@ -48,8 +48,8 @@ Vumanchu cashflow verde y stoach para arriba
 * EURCAD
 RSI alcista
 MACD alcista
-OBV
-Vumanchu
+OBV alcista
+Vumanchu anclaje hecho, pero el cashflow no sube, pero el stoch si
 GBPCHF,
 GBPAUD,
 GBPCAD,

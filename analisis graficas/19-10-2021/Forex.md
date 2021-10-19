@@ -6,9 +6,16 @@ OBV a punto de romper la directriz1 bajista
 MACD subiendo.
 ![[Pasted image 20211019213648.png]]
 
+* USDCAD
+Entrado en 4 horas por el indicador vumanchu
+RSI
+MACD
+OBV
+Vumanchu
 
 
-USDCAD,
+
+
 EURGBP,
 EURAUD,
 EURCHF,

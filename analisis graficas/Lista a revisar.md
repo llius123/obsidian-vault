@@ -71,4 +71,8 @@ NEARUSDTPERP,
 
 LTCUSDT
 
-### indicadores a revisar
+###indicadores a revisar
+RSI
+MACD
+OBV
+Vumanchu

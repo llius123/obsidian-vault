@@ -16,7 +16,7 @@ MACD rompiendo directriz
 RSI apoyando en directriz alcista
 MACD bajando
 OBV rompiedo/apoyando directriz alcista
-Vumanchu
+Vumanchu saliendo cashflow, pero con anclaje creado
 
 
 

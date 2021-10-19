@@ -22,6 +22,11 @@ Vumanchu saliendo cashflow, pero con anclaje creado
 
 
 * EURGBP
+RSI volviendo a apoyarse en la directriz alcista
+MACD bajando
+OBV bajando
+Vumanchu
+
 EURAUD,
 EURCHF,
 EURCAD,

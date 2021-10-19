@@ -1,5 +1,8 @@
 * EURUSD
-No se lo que esta haciendo, esperar a que 
+No se lo que esta haciendo, esperar a que situe en algun lado.
+RSI hacia arriba
+Vumanchu hacia arriba?
+OBV a punto de romper la 
 
 USDCAD,
 EURGBP,

@@ -25,9 +25,12 @@ Vumanchu saliendo cashflow, pero con anclaje creado
 RSI volviendo a apoyarse en la directriz alcista
 MACD bajando
 OBV bajando
-Vumanchu
+Vumanchu como despegando pero sin despegar
+Si vuelve a apoyarse en el RSI podria ser buena entrada
+![[Pasted image 20211019214547.png]]
 
-EURAUD,
+* EURAUD
+
 EURCHF,
 EURCAD,
 GBPCHF,

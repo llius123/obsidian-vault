@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "analisis graficas/18-10-2021/Forex.md",
+            "file": "analisis graficas/19-10-2021/Forex.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "bfbf903f5bfb544f",
+        "id": "e35a4f20dd2b60be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "analisis graficas/18-10-2021/Forex.md",
+            "file": "analisis graficas/19-10-2021/Forex.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "analisis graficas/18-10-2021/Forex.md",
+                "file": "analisis graficas/19-10-2021/Forex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fa4adec86d41b1df",
+  "active": "e35a4f20dd2b60be",
   "lastOpenFiles": [
+    "analisis graficas/19-10-2021/Forex.md",
+    "analisis graficas/19-10-2021/Untitled.md",
+    "analisis graficas/18-10-2021/Untitled.md",
+    "analisis graficas/Lista a revisar.md",
     "analisis graficas/18-10-2021/Forex.md",
     "img/Pasted image 20211018222144.png",
     "img/Pasted image 20211018222913.png",
     "Pasted image 20211018222959.png",
     "Pasted image 20211018222913.png",
-    "Pasted image 20211018222144.png",
-    "tradding/Pasted image 20211018221102.png",
-    "tradding/Pasted image 20211018214247.png",
-    "analisis graficas/Untitled.md",
-    "analisis graficas/18-10-2021/Untitled.md"
+    "Pasted image 20211018222144.png"
   ]
 }

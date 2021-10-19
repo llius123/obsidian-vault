@@ -31,11 +31,17 @@ Si vuelve a apoyarse en el RSI podria ser buena entrada
 
 * EURAUD
 Trade perdido por una velaca de locos
-RSI en el suelo, 
+RSI en el suelo
 MACD bajista
 OBV rompiendo directriz alcista
+Vumanchu ya ha sacado anclaje
+![[Pasted image 20211019214821.png]]
+
+* EURCHF
+RSI
+MACD
+OBV
 Vumanchu
-EURCHF,
 EURCAD,
 GBPCHF,
 GBPAUD,

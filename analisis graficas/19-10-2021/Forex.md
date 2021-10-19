@@ -13,9 +13,9 @@ MACD rompiendo directriz
 ![[Pasted image 20211019213835.png]]
 
 
-RSI
-MACD
-OBV
+RSI apoyando en directriz alcista
+MACD bajando
+OBV rompiedo/apoyando directriz alcista
 Vumanchu
 
 

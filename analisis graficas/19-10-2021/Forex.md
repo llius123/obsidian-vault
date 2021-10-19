@@ -2,8 +2,8 @@
 No se lo que esta haciendo, esperar a que situe en algun lado.
 RSI hacia arriba
 Vumanchu hacia arriba?
-OBV a punto de romper la 
-
+OBV a punto de romper la directriz1 bajista
+MACD subiendo 
 USDCAD,
 EURGBP,
 EURAUD,

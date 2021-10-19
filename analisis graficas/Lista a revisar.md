@@ -70,3 +70,5 @@ MANAUSDTPERP,
 NEARUSDTPERP,
 
 LTCUSDT
+
+### indicadores a revisar

@@ -40,10 +40,16 @@ Vumanchu ya ha sacado anclaje
 * EURCHF
 Esperar a ver que hace con la ema de 20
 RSI alcista
-MACD
+MACD alcista
 OBV rompiendo directriz bajista
+Vumanchu cashflow verde y stoach para arriba
+![[Pasted image 20211019215014.png]]
+
+* EURCAD
+RSI alcista
+MACD alcista
+OBV
 Vumanchu
-EURCAD,
 GBPCHF,
 GBPAUD,
 GBPCAD,

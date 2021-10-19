@@ -8,6 +8,10 @@ MACD subiendo.
 
 * USDCAD
 Entrado en 4 horas por el indicador vumanchu
+Rsi a punto de romper directriz bajista.
+MACD ri
+
+![[Pasted image 20211019213835.png]]
 RSI
 MACD
 OBV

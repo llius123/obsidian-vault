@@ -8,8 +8,10 @@ Resistiendo los 2.5T, ojo que el btc puede que no siga subiendo
 ![[Pasted image 20211019215633.png]]
 
 * TOTAL2
-Resis
-BTCUSDT,
+Resistiendo los 1.4T, si rompe la resistencia hay que estar dentro de altcoins
+
+* BTCUSDT
+Llegando a ATH, a esperar
 ETHUSDT,
 ADAUSDT,
 SPARTABNB,

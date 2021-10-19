@@ -15,6 +15,10 @@ Llegando a ATH, a esperar
 ![[Pasted image 20211019215945.png]]
 
 * ETHUSDT
-
+Resistiendo los 4000
+RSI a punto de explotar el triangulo en el que esta comprimido
+MACD rompiendo el minitriangulo
+OBV
+Vumanchu
 ADAUSDT,
 SPARTABNB,

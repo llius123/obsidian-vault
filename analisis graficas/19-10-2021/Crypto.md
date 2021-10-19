@@ -12,6 +12,9 @@ Resistiendo los 1.4T, si rompe la resistencia hay que estar dentro de altcoins
 
 * BTCUSDT
 Llegando a ATH, a esperar
-ETHUSDT,
+![[Pasted image 20211019215945.png]]
+
+* ETHUSDT
+
 ADAUSDT,
 SPARTABNB,

@@ -34,3 +34,6 @@ Chocando con resistencia importante a esperar a ver que hace BTC
 chocando con la directriz
 ![[Pasted image 20211020222945.png]]
 
+* SRM
+Esta p
+

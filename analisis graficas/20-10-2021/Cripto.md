@@ -26,3 +26,7 @@ Subiendo trend ascente.
 Chocando con resistencia.
 ![[Pasted image 20211020221351.png]]
 
+* DOT
+Chocando con resistencia importante a esperar a ver que hace BTC
+![[Pasted image 20211020222132.png]]
+

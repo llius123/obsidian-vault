@@ -35,5 +35,7 @@ chocando con la directriz
 ![[Pasted image 20211020222945.png]]
 
 * SRM
-Esta p
+Esta perfecta para entrar.
+RSI, MACD y Vumanchu pintan alcista.
+![[Pasted image 20211020223335.png]]
 

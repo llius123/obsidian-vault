@@ -7,4 +7,8 @@ Subiendo, esta bien ya que sigue entrando pasta
 ![[Pasted image 20211020220029.png]]
 
 * Total market cap 2
-Esta rechazando la zona de los 
+Esta rechazando la zona de los 1.37T asi que a esperar
+![[Pasted image 20211020220103.png]]
+
+* BTC rompiendo maximos a disfrutar
+![[Pasted image 20211020220138.png]]

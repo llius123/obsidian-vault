@@ -24,3 +24,4 @@ Soportando bien el soporte, si sigue por esta zona cuando las alts despeguen no 
 * FTT
 Subiendo trend ascente.
 Chocando con resistencia.
+![[Pasted image 20211020221351.png]]

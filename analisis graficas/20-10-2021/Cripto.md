@@ -30,3 +30,7 @@ Chocando con resistencia.
 Chocando con resistencia importante a esperar a ver que hace BTC
 ![[Pasted image 20211020222132.png]]
 
+* Ocean
+chocando con la directriz
+![[Pasted image 20211020222945.png]]
+

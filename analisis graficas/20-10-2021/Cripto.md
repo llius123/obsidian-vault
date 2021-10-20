@@ -18,4 +18,5 @@ Rechazando resistencia de maximos (los 4k)
 ![[Pasted image 20211020220226.png]]
 
 * ADA
-Soportando bien el soporte, si sigue por esta zona cuando las alts despeguen no es mala idea entrarle
+Soportando bien el soporte, si sigue por esta zona cuando las alts despeguen no es mala idea entrarle.
+![[Pasted image 20211020220755.png]]

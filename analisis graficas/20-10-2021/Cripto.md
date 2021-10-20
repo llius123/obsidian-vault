@@ -12,3 +12,7 @@ Esta rechazando la zona de los 1.37T asi que a esperar
 
 * BTC rompiendo maximos a disfrutar
 ![[Pasted image 20211020220138.png]]
+
+* ETH 
+Rechazando resistencia de maximos (los 4k)
+![[Pasted image 20211020220226.png]]

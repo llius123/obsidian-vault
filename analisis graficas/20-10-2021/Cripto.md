@@ -20,3 +20,7 @@ Rechazando resistencia de maximos (los 4k)
 * ADA
 Soportando bien el soporte, si sigue por esta zona cuando las alts despeguen no es mala idea entrarle.
 ![[Pasted image 20211020220755.png]]
+
+* FTT
+Subiendo trend ascente.
+Chocando con resistencia.

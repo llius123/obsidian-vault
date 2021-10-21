@@ -19,6 +19,10 @@ Todos los indicadores por las nubes asi que sin mas.
 ![[Pasted image 20211021201046.png]]
 
 * ETHUSDT
-A punto de despegar, si rompe y apoya para adentr
-ADAUSDT,
+A punto de despegar.
+![[Pasted image 20211021201713.png]]
+
+* ADAUSDT
+Soportando muy bien la zona de los 2.
+![[Pasted image 20211021201754.png]]
 SPARTABNB,

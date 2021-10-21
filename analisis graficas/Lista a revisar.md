@@ -9,7 +9,9 @@ Divergencia bajista RSI
 ![[Pasted image 20211021200548.png]]
 
 
-TOTAL2,
+* TOTAL2
+Rechazando los 1.39 asi que las alts no han despgado aun
+![[Pasted image 20211021200619.png]]
 BTCUSDT,
 ETHUSDT,
 ADAUSDT,

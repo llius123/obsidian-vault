@@ -25,4 +25,7 @@ A punto de despegar.
 * ADAUSDT
 Soportando muy bien la zona de los 2.
 ![[Pasted image 20211021201754.png]]
-SPARTABNB,
+
+* SPARTABNB
+A segir esperando
+![[Pasted image 20211021201847.png]]

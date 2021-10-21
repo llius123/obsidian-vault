@@ -46,3 +46,8 @@ Esperar a que apoye en los 61 y baje el rsi para entrar.
 * DOT
 Rechazando zona de maximos historicos.
 Si rompe y apoya con el TOTAL2 rompiendo puede ser buena entrada
+![[Pasted image 20211021204756.png]]
+
+* OCEAN
+Esta chocando contra los 0.89.
+Si las alts explotan, esta puede ser una buena entrada

@@ -30,3 +30,9 @@ Soportando muy bien la zona de los 2.
 A segir esperando
 ![[Pasted image 20211021201847.png]]
 
+* LTC
+Rechazando la zona de los 204.
+RSI por las nubes
+MACD rompiendo hacia arriba
+OBS subiendo
+![[Pasted image 20211021202912.png]]

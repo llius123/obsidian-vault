@@ -29,3 +29,4 @@ Soportando muy bien la zona de los 2.
 * SPARTABNB
 A segir esperando
 ![[Pasted image 20211021201847.png]]
+

@@ -13,7 +13,10 @@ Divergencia bajista RSI
 Rechazando los 1.39 asi que las alts no han despgado aun
 ![[Pasted image 20211021200619.png]]
 
-BTCUSDT,
+* BTCUSDT
+Retrocediendo como tiene que ser, si aguanta los 64 esta bien.
+Todos los indicadores por las nubes asi que sin mas.
+![[Pasted image 20211021201046.png]]
 ETHUSDT,
 ADAUSDT,
 SPARTABNB,

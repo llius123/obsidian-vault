@@ -36,3 +36,13 @@ RSI por las nubes
 MACD rompiendo hacia arriba
 OBS subiendo
 ![[Pasted image 20211021202912.png]]
+
+* FTX
+Ya ha despegado, esperar a que retroceda
+RSI alto.
+Esperar a que apoye en los 61 y baje el rsi para entrar.
+![[Pasted image 20211021203642.png]]
+
+* DOT
+Rechazando zona de maximos historicos.
+Si rompe y apoya con el TOTAL2 rompiendo puede ser buena entrada

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "analisis graficas/21-10-2021/Cripto.md",
+            "file": "Grid css/Apuntes.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "analisis graficas/21-10-2021/Cripto.md",
+            "file": "Grid css/Apuntes.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "analisis graficas/21-10-2021/Cripto.md",
+                "file": "Grid css/Apuntes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "a97468a9010dca22",
   "lastOpenFiles": [
+    "Grid css/Apuntes.md",
     "analisis graficas/21-10-2021/Cripto.md",
     "img/Pasted image 20211021200428.png",
     "analisis graficas/Lista a revisar.md",
@@ -109,7 +110,6 @@
     "analisis graficas/19-10-2021/Crypto.md",
     "analisis graficas/18-10-2021/Forex.md",
     "img/Pasted image 20211018214247.png",
-    "Pasted image 20211019213648.png",
-    "analisis graficas/19-10-2021/Untitled.md"
+    "Pasted image 20211019213648.png"
   ]
 }

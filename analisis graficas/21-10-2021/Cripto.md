@@ -51,3 +51,8 @@ Si rompe y apoya con el TOTAL2 rompiendo puede ser buena entrada
 * OCEAN
 Esta chocando contra los 0.89.
 Si las alts explotan, esta puede ser una buena entrada
+![[Pasted image 20211021205208.png]]
+
+* SRM
+Esta soportando en los 7,53 nada mal la zona de entrada.
+![[Pasted image 20211021205307.png]]
